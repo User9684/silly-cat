@@ -1,4 +1,10 @@
 [
-  "sillycats",
-  "festivecats"
+  {
+    id: "sillycats",
+    title: "Silly Cats"
+  },
+  {
+    id: "festivecats",
+    title: "Fetive Cats"
+  }
 ]
