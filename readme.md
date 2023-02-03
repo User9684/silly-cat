@@ -1,3 +1,6 @@
+# The silly cat gallary
+View the Silly Cat Gallery [here!](https://cat.user9684.dev/)
+
 # The silly cat dupe
 The silly cat dupe <br>
 The silly cat dupe <br>
