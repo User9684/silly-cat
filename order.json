@@ -5,6 +5,18 @@
   },
   {
     "id": "festivecats",
-    "title": "Fetive Cats"
+    "title": "Festive Cats"
+  },
+  {
+    "id": "pridecats",
+    "title": "Pride cats"
+  },
+  {
+    "id": "countrycats",
+    "title": "Country Cats"
+  },
+  {
+    "id": "cursedcats",
+    "title": "Cursed Cats"
   }
 ]
